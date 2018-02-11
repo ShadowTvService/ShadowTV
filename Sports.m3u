@@ -10,16 +10,12 @@ http://p4.giffy.be:8080/live/toby1/toby1/21727.ts
 http://p4.giffy.be:8080/live/toby1/toby1/21743.ts
 #EXTINF:-1,SKY SPORTS CRICKET
 http://p4.giffy.be:8080/live/toby1/toby1/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/toby1/toby1/21741.ts
 #EXTINF:-1,SKY SPORTS GOLF
 http://p4.giffy.be:8080/live/toby1/toby1/21740.ts
 #EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
 http://p4.giffy.be:8080/live/toby1/toby1/21739.ts
 #EXTINF:-1,SKY SPORT F1 HD
 http://p4.giffy.be:8080/live/toby1/toby1/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/toby1/toby1/21732.ts
 #EXTINF:-1,SKY SPORTS MIX
 http://p4.giffy.be:8080/live/toby1/toby1/21728.ts
 #EXTINF:-1,SKY SPORTS NEWS HD
@@ -38,9 +34,293 @@ http://p4.giffy.be:8080/live/toby1/toby1/21734.ts
 http://p4.giffy.be:8080/live/toby1/toby1/21731.ts
 #EXTINF:-1,BT SPORT MOSAIC
 http://p4.giffy.be:8080/live/toby1/toby1/21729.ts
-#EXTINF:-1,BT SPORT EXTRA
-http://p4.giffy.be:8080/live/toby1/toby1/21730.ts
-#EXTINF:-1,BEIN SPORTS 7HD
-http://p4.giffy.be:8080/live/toby1/toby1/31313.ts
-#EXTINF:-1,BEIN SPORTS 9HD
-http://p4.giffy.be:8080/live/toby1/toby1/31311.ts
+#EXTINF:-1,ESPN HD
+http://144.217.64.126:8080/live/toby1/toby1/13859.ts
+#EXTINF:-1,ESPN 2
+http://144.217.64.126:8080/live/toby1/toby1/13860.ts
+#EXTINF:-1,ESPN U
+http://144.217.64.126:8080/live/toby1/toby1/13861.ts
+#EXTINF:-1,ESPN News
+http://144.217.64.126:8080/live/toby1/toby1/13862.ts
+#EXTINF:-1,FOX SPORTS 1
+http://144.217.64.126:8080/live/toby1/toby1/13878.ts
+#EXTINF:-1,FOX SPORTS 2
+http://144.217.64.126:8080/live/toby1/toby1/13879.ts
+#EXTINF:-1,NBCSN HD
+http://144.217.64.126:8080/live/toby1/toby1/23190.ts
+#EXTINF:-1,BIG TEN NETWORK US
+http://144.217.64.126:8080/live/toby1/toby1/20950.ts
+#EXTINF:-1,CBS SPORTS NETWORK US
+http://144.217.64.126:8080/live/toby1/toby1/20948.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://144.217.64.126:8080/live/toby1/toby1/13884.ts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://144.217.64.126:8080/live/toby1/toby1/13880.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://144.217.64.126:8080/live/toby1/toby1/20721.ts
+#EXTINF:-1,SPORTSNET 360.
+http://144.217.64.126:8080/live/toby1/toby1/14215.ts
+#EXTINF:-1,SPORTSNET WEST HD
+http://144.217.64.126:8080/live/toby1/toby1/21527.ts
+#EXTINF:-1,SPORTSNET EAST HD
+http://144.217.64.126:8080/live/toby1/toby1/22575.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://144.217.64.126:8080/live/toby1/toby1/21526.ts
+#EXTINF:-1,US | TENNIS HD
+http://144.217.64.126:8080/live/toby1/toby1/27825.ts
+#EXTINF:-1,GOLF HD
+http://144.217.64.126:8080/live/toby1/toby1/31422.ts
+#EXTINF:-1,WWE HD
+http://144.217.64.126:8080/live/toby1/toby1/20913.ts
+#EXTINF:-1,TSN 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/31526.ts
+#EXTINF:-1,TSN 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/22576.ts
+#EXTINF:-1,TSN 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/35127.ts
+#EXTINF:-1,TSN 4 HD
+http://144.217.64.126:8080/live/toby1/toby1/13888.ts
+#EXTINF:-1,TSN 5 HD
+http://144.217.64.126:8080/live/toby1/toby1/13889.ts
+#EXTINF:-1,BEIN SPORTS US HD.
+http://144.217.64.126:8080/live/toby1/toby1/13890.ts
+#EXTINF:-1,NBA TV CA
+http://144.217.64.126:8080/live/toby1/toby1/20715.ts
+#EXTINF:-1,SEC NETWORK HD US
+http://144.217.64.126:8080/live/toby1/toby1/20959.ts
+#EXTINF:-1,WILLOW CRICKET
+http://144.217.64.126:8080/live/toby1/toby1/14844.ts
+#EXTINF:-1,TEN 1 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/16960.ts
+#EXTINF:-1,SONY SIX HD.
+http://144.217.64.126:8080/live/toby1/toby1/15456.ts
+#EXTINF:-1,CSN CHICAGO
+http://144.217.64.126:8080/live/toby1/toby1/26074.ts
+#EXTINF:-1,SONY ESPN(FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/16023.ts
+#EXTINF:-1,NBA 1 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36273.ts
+#EXTINF:-1,SPORTS : NBA PASS 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/31421.ts
+#EXTINF:-1,NBA 2 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36272.ts
+#EXTINF:-1,SPORTS : NBA PASS 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/31419.ts
+#EXTINF:-1,NBA 3 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36271.ts
+#EXTINF:-1,SPORTS : NBA PASS 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/31418.ts
+#EXTINF:-1,NBA 4 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36270.ts
+#EXTINF:-1,SPORTS : NBA PASS 4 HD
+http://144.217.64.126:8080/live/toby1/toby1/31417.ts
+#EXTINF:-1,NBA 5 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36269.ts
+#EXTINF:-1,SPORTS : NBA PASS 5 HD
+http://144.217.64.126:8080/live/toby1/toby1/31416.ts
+#EXTINF:-1,NBA 6 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36268.ts
+#EXTINF:-1,SPORTS : NBA PASS 6 HD
+http://144.217.64.126:8080/live/toby1/toby1/31415.ts
+#EXTINF:-1,NBA 7 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36267.ts
+#EXTINF:-1,SPORTS : NBA PASS 7 HD
+http://144.217.64.126:8080/live/toby1/toby1/31414.ts
+#EXTINF:-1,NBA 8 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36266.ts
+#EXTINF:-1,SPORTS : NBA PASS 8 HD
+http://144.217.64.126:8080/live/toby1/toby1/31413.ts
+#EXTINF:-1,NBA 9 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36265.ts
+#EXTINF:-1,SPORTS : NBA PASS 9 HD
+http://144.217.64.126:8080/live/toby1/toby1/31412.ts
+#EXTINF:-1,NBA 10 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36264.ts
+#EXTINF:-1,SPORTS :  NBA PASS 10 HD
+http://144.217.64.126:8080/live/toby1/toby1/31420.ts
+#EXTINF:-1,NFL 1 : Browns vs  Steelers
+http://144.217.64.126:8080/live/toby1/toby1/31332.ts
+#EXTINF:-1,NFL  2 :
+http://144.217.64.126:8080/live/toby1/toby1/31334.ts
+#EXTINF:-1,NFL 3 :
+http://144.217.64.126:8080/live/toby1/toby1/31331.ts
+#EXTINF:-1,NFL 4 :
+http://144.217.64.126:8080/live/toby1/toby1/31333.ts
+#EXTINF:-1,NFL 5 :
+http://144.217.64.126:8080/live/toby1/toby1/31329.ts
+#EXTINF:-1,NFL 6 :
+http://144.217.64.126:8080/live/toby1/toby1/31328.ts
+#EXTINF:-1,NFL 7 :
+http://144.217.64.126:8080/live/toby1/toby1/31327.ts
+#EXTINF:-1,NFL 8 :
+http://144.217.64.126:8080/live/toby1/toby1/31326.ts
+#EXTINF:-1,NFL 9 :
+http://144.217.64.126:8080/live/toby1/toby1/31325.ts
+#EXTINF:-1,NFL 10 :
+http://144.217.64.126:8080/live/toby1/toby1/31330.ts
+#EXTINF:-1,NFL 11 :
+http://144.217.64.126:8080/live/toby1/toby1/31324.ts
+#EXTINF:-1,NFL 12 :
+http://144.217.64.126:8080/live/toby1/toby1/31323.ts
+#EXTINF:-1,NFL 13 :
+http://144.217.64.126:8080/live/toby1/toby1/31322.ts
+#EXTINF:-1,NFL 14 :
+http://144.217.64.126:8080/live/toby1/toby1/31321.ts
+#EXTINF:-1,NFL 15 :
+http://144.217.64.126:8080/live/toby1/toby1/31320.ts
+#EXTINF:-1,NFL 16 :
+http://144.217.64.126:8080/live/toby1/toby1/31319.ts
+#EXTINF:-1,NHL 1
+http://144.217.64.126:8080/live/toby1/toby1/31395.ts
+#EXTINF:-1,NHL 1 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35236.ts
+#EXTINF:-1,NHL 2 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35237.ts
+#EXTINF:-1,NHL 2
+http://144.217.64.126:8080/live/toby1/toby1/31394.ts
+#EXTINF:-1,NHL 3 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35238.ts
+#EXTINF:-1,NHL 3
+http://144.217.64.126:8080/live/toby1/toby1/31393.ts
+#EXTINF:-1,NHL 4 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35239.ts
+#EXTINF:-1,NHL 4
+http://144.217.64.126:8080/live/toby1/toby1/31392.ts
+#EXTINF:-1,NHL 5 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35240.ts
+#EXTINF:-1,NHL 5
+http://144.217.64.126:8080/live/toby1/toby1/31391.ts
+#EXTINF:-1,NHL 6 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35241.ts
+#EXTINF:-1,NHL 6
+http://144.217.64.126:8080/live/toby1/toby1/31390.ts
+#EXTINF:-1,NHL 7 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35242.ts
+#EXTINF:-1,NHL 7
+http://144.217.64.126:8080/live/toby1/toby1/31389.ts
+#EXTINF:-1,NHL 8 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35243.ts
+#EXTINF:-1,NHL 8
+http://144.217.64.126:8080/live/toby1/toby1/31388.ts
+#EXTINF:-1,NHL 9 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35244.ts
+#EXTINF:-1,NHL 9
+http://144.217.64.126:8080/live/toby1/toby1/31387.ts
+#EXTINF:-1,NHL 10
+http://144.217.64.126:8080/live/toby1/toby1/31386.ts
+#EXTINF:-1,NHL 10 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35245.ts
+#EXTINF:-1,NHL 11
+http://144.217.64.126:8080/live/toby1/toby1/31385.ts
+#EXTINF:-1,NHL 11 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35246.ts
+#EXTINF:-1,NHL 12
+http://144.217.64.126:8080/live/toby1/toby1/31384.ts
+#EXTINF:-1,NHL 12 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/35247.ts
+#EXTINF:-1,NHL 13
+http://144.217.64.126:8080/live/toby1/toby1/31383.ts
+#EXTINF:-1,NHL 14
+http://144.217.64.126:8080/live/toby1/toby1/31382.ts
+#EXTINF:-1,NHL 15
+http://144.217.64.126:8080/live/toby1/toby1/31381.ts
+#EXTINF:-1,NHL 16
+http://144.217.64.126:8080/live/toby1/toby1/31380.ts
+#EXTINF:-1,1 MLB
+http://144.217.64.126:8080/live/toby1/toby1/26071.ts
+#EXTINF:-1,MLB BAY SIDE
+http://144.217.64.126:8080/live/toby1/toby1/26073.ts
+#EXTINF:-1,MLB 1
+http://144.217.64.126:8080/live/toby1/toby1/31411.ts
+#EXTINF:-1,MLB 2
+http://144.217.64.126:8080/live/toby1/toby1/31410.ts
+#EXTINF:-1,MLB 3
+http://144.217.64.126:8080/live/toby1/toby1/31409.ts
+#EXTINF:-1,MLB 4
+http://144.217.64.126:8080/live/toby1/toby1/31408.ts
+#EXTINF:-1,MLB 5
+http://144.217.64.126:8080/live/toby1/toby1/31407.ts
+#EXTINF:-1,MLB 6
+http://144.217.64.126:8080/live/toby1/toby1/31406.ts
+#EXTINF:-1,MLB 7
+http://144.217.64.126:8080/live/toby1/toby1/31405.ts
+#EXTINF:-1,MLB 8
+http://144.217.64.126:8080/live/toby1/toby1/31404.ts
+#EXTINF:-1,MLB 9
+http://144.217.64.126:8080/live/toby1/toby1/31403.ts
+#EXTINF:-1,MLB 10
+http://144.217.64.126:8080/live/toby1/toby1/31402.ts
+#EXTINF:-1,MLB 11
+http://144.217.64.126:8080/live/toby1/toby1/31401.ts
+#EXTINF:-1,MLB 12
+http://144.217.64.126:8080/live/toby1/toby1/31400.ts
+#EXTINF:-1,MLB 13
+http://144.217.64.126:8080/live/toby1/toby1/31399.ts
+#EXTINF:-1,MLB 14
+http://144.217.64.126:8080/live/toby1/toby1/31398.ts
+#EXTINF:-1,MLB 15
+http://144.217.64.126:8080/live/toby1/toby1/31397.ts
+#EXTINF:-1,MLB 16
+http://144.217.64.126:8080/live/toby1/toby1/31396.ts
+#EXTINF:-1,NFL NETWORK .
+http://144.217.64.126:8080/live/toby1/toby1/27792.ts
+#EXTINF:-1,NFL REDZONE HD
+http://144.217.64.126:8080/live/toby1/toby1/29032.ts
+#EXTINF:-1,SKY SPORTS BOX OFFICE PPV
+http://144.217.64.126:8080/live/toby1/toby1/27770.ts
+#EXTINF:-1,SKY SPORT MAIN EVENT
+http://144.217.64.126:8080/live/toby1/toby1/21743.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+http://144.217.64.126:8080/live/toby1/toby1/21742.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://144.217.64.126:8080/live/toby1/toby1/21740.ts
+#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
+http://144.217.64.126:8080/live/toby1/toby1/21739.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://144.217.64.126:8080/live/toby1/toby1/21738.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://144.217.64.126:8080/live/toby1/toby1/21728.ts
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://144.217.64.126:8080/live/toby1/toby1/21737.ts
+#EXTINF:-1,SKY SPORTS HD ARENA
+http://144.217.64.126:8080/live/toby1/toby1/27769.ts
+#EXTINF:-1,SKY FOOTBALL ( NEW HD )
+http://144.217.64.126:8080/live/toby1/toby1/28297.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/21736.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/21735.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/21734.ts
+#EXTINF:-1,BT SPORT ESPN
+http://144.217.64.126:8080/live/toby1/toby1/21731.ts
+#EXTINF:-1,BT SPORT MOSAIC
+http://144.217.64.126:8080/live/toby1/toby1/21729.ts
+#EXTINF:-1,STAR SPORTS 1 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/16956.ts
+#EXTINF:-1,STAR SPORTS 2 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/16955.ts
+#EXTINF:-1,STAR SPORTS 3 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/16954.ts
+#EXTINF:-1,STAR SPORTS SELECT 1 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/24270.ts
+#EXTINF:-1,STAR SPORTS SELECT 2 HD (FULL HD)
+http://144.217.64.126:8080/live/toby1/toby1/24271.ts
+#EXTINF:-1,PRIME SPORT HD
+http://144.217.64.126:8080/live/toby1/toby1/21733.ts
+#EXTINF:-1,RACING UK
+http://144.217.64.126:8080/live/toby1/toby1/21725.ts
+#EXTINF:-1,BOX NATION
+http://144.217.64.126:8080/live/toby1/toby1/21722.ts
+#EXTINF:-1,Eurosport 2
+http://144.217.64.126:8080/live/toby1/toby1/30151.ts
+#EXTINF:-1,Sports : NFL REDZONE HD
+http://144.217.64.126:8080/live/toby1/toby1/30681.ts
+#EXTINF:-1,NBA 11 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36263.ts
+#EXTINF:-1,NBA 12 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36262.ts
+#EXTINF:-1,NBA HD US
+http://144.217.64.126:8080/live/toby1/toby1/32175.ts
+#EXTINF:-1,CA | NBA TV HD
+http://144.217.64.126:8080/live/toby1/toby1/36568.ts
