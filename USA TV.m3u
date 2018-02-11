@@ -21,8 +21,6 @@ http://p4.giffy.be:8080/live/toby1/toby1/20706.ts
 http://p4.giffy.be:8080/live/toby1/toby1/20911.ts
 #EXTINF:-1,US | BRAVO HD
 http://p4.giffy.be:8080/live/toby1/toby1/20902.ts
-#EXTINF:-1,US | CARTOON NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/20988.ts
 #EXTINF:-1,US | CRIMINAL INVESTIGATION  HD
 http://p4.giffy.be:8080/live/toby1/toby1/20973.ts
 #EXTINF:-1,US | FOX BUSINESS NETWORK HD
@@ -49,30 +47,12 @@ http://p4.giffy.be:8080/live/toby1/toby1/21997.ts
 http://p4.giffy.be:8080/live/toby1/toby1/23305.ts
 #EXTINF:-1,US | AL JAZEERA ENGLISH
 http://p4.giffy.be:8080/live/toby1/toby1/18803.ts
-#EXTINF:-1,US | CINEMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20976.ts
-#EXTINF:-1,US | CINEMAX MOREMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20975.ts
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20974.ts
 #EXTINF:-1,US | EL RAY HD
 http://p4.giffy.be:8080/live/toby1/toby1/20970.ts
 #EXTINF:-1,US | EPIX 2 HD
 http://p4.giffy.be:8080/live/toby1/toby1/20968.ts
 #EXTINF:-1,US | HBO COMEDY HD
 http://p4.giffy.be:8080/live/toby1/toby1/20964.ts
-#EXTINF:-1,US | HBO SIGNATURE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20962.ts
-#EXTINF:-1,US | HBO ZONE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20961.ts
-#EXTINF:-1,US | SHOWTIME FAMILY ZONE
-http://p4.giffy.be:8080/live/toby1/toby1/20958.ts
-#EXTINF:-1,US | EPIX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20969.ts
-#EXTINF:-1,US | HGTV HD
-http://p4.giffy.be:8080/live/toby1/toby1/25232.ts
-#EXTINF:-1,US | MSNBC HD
-http://p4.giffy.be:8080/live/toby1/toby1/26075.ts
 #EXTINF:-1,US | ANIMAL PLANET HD
 http://p4.giffy.be:8080/live/toby1/toby1/20989.ts
 #EXTINF:-1,US | BBC AMERICA HD
@@ -91,14 +71,8 @@ http://p4.giffy.be:8080/live/toby1/toby1/20935.ts
 http://p4.giffy.be:8080/live/toby1/toby1/20704.ts
 #EXTINF:-1,US | FOOD NETWORK HD
 http://p4.giffy.be:8080/live/toby1/toby1/21142.ts
-#EXTINF:-1,US | HALLMARK HD
-http://p4.giffy.be:8080/live/toby1/toby1/29987.ts
-#EXTINF:-1,US | HALLMARK MOVIES HD
-http://p4.giffy.be:8080/live/toby1/toby1/20966.ts
 #EXTINF:-1,US | IFC HD
 http://p4.giffy.be:8080/live/toby1/toby1/20960.ts
-#EXTINF:-1,US | LIFETIME MOVIES HD
-http://p4.giffy.be:8080/live/toby1/toby1/20914.ts
 #EXTINF:-1,US | NAT GEO HD
 http://p4.giffy.be:8080/live/toby1/toby1/20982.ts
 #EXTINF:-1,US | NAT GEO WILD HD
@@ -121,13 +95,41 @@ http://p4.giffy.be:8080/live/toby1/toby1/26545.ts
 http://p4.giffy.be:8080/live/toby1/toby1/20944.ts
 #EXTINF:-1,US | WEATHER HD
 http://p4.giffy.be:8080/live/toby1/toby1/23193.ts
-#EXTINF:-1,US | STARZ CINEMA HD
-http://p4.giffy.be:8080/live/toby1/toby1/21460.ts
 #EXTINF:-1,US | CNN  HD
 http://p4.giffy.be:8080/live/toby1/toby1/29026.ts
 #EXTINF:-1,US | CBSN NEWS
 http://p4.giffy.be:8080/live/toby1/toby1/27539.ts
-#EXTINF:-1,US | BLOOMBERG
-http://p4.giffy.be:8080/live/toby1/toby1/27538.ts
 #EXTINF:-1,US | CNBC HD
 http://p4.giffy.be:8080/live/toby1/toby1/28303.ts
+#EXTINF:-1,NEWS 12 CT
+http://144.217.64.126:8080/live/toby1/toby1/28294.ts
+#EXTINF:-1,US | HISTORY
+http://144.217.64.126:8080/live/toby1/toby1/28580.ts
+#EXTINF:-1,US | SHOWTIME SHOWCASE
+http://144.217.64.126:8080/live/toby1/toby1/28573.ts
+#EXTINF:-1,US | ABC NEWS.
+http://144.217.64.126:8080/live/toby1/toby1/28649.ts
+#EXTINF:-1,US | CBS EAST.
+http://144.217.64.126:8080/live/toby1/toby1/28647.ts
+#EXTINF:-1,US | DIY NETWORK.
+http://144.217.64.126:8080/live/toby1/toby1/28637.ts
+#EXTINF:-1,US | AMC
+http://144.217.64.126:8080/live/toby1/toby1/29263.ts
+#EXTINF:-1,US | AMERICAN HEROS
+http://144.217.64.126:8080/live/toby1/toby1/30625.ts
+#EXTINF:-1,US | BUZZR
+http://144.217.64.126:8080/live/toby1/toby1/30627.ts
+#EXTINF:-1,US| VICELAND
+http://144.217.64.126:8080/live/toby1/toby1/30893.ts
+#EXTINF:-1,US | E!
+http://144.217.64.126:8080/live/toby1/toby1/32174.ts
+#EXTINF:-1,US | DISCOVERY HD
+http://144.217.64.126:8080/live/toby1/toby1/32182.ts
+#EXTINF:-1,US | FXX
+http://144.217.64.126:8080/live/toby1/toby1/32181.ts
+#EXTINF:-1,US | VELOCITY
+http://144.217.64.126:8080/live/toby1/toby1/32183.ts
+#EXTINF:-1,US | FOX BOSTON 25
+http://144.217.64.126:8080/live/toby1/toby1/36653.ts
+#EXTINF:-1,US | BBC
+http://144.217.64.126:8080/live/toby1/toby1/36679.ts
